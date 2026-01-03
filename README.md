@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.postimg.cc/c1jSz000/image.png" alt="Hairy-Paws Banner" width="100%"/>
-</p>
-
 <h1 align="center">🐾 Hairy-Paws</h1>
 
 <p align="center">
@@ -15,6 +11,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/c1jSz000/image.png" alt="Hairy-Paws Banner" width="100%"/>
+</p>
+
+
 
 ---
 
@@ -30,8 +32,6 @@
   - [Aplicación Web](#aplicación-web)
   - [Aplicación Móvil](#aplicación-móvil)
   - [API REST Documentation](#api-rest-documentation)
-- [Instalación y Configuración](#-instalación-y-configuración)
-- [Equipo de Desarrollo](#-equipo-de-desarrollo)
 
 ---
 
@@ -56,11 +56,14 @@ Crear una solución tecnológica que:
 
 ## ✨ Características Principales
 
-### Para Adoptantes
+### Para Adoptantes y Dueños
 - 🔍 Búsqueda y filtrado de mascotas por especie, raza, edad y ubicación
 - 📝 Proceso de solicitud de adopción digitalizado
 - 📅 Agendamiento de visitas para conocer mascotas
 - ❤️ Lista de favoritos para guardar mascotas de interés
+- 📜 Historial de donaciones
+- 🔔 Sistema de notificaciones
+- 🐻 Sistema de emparejamiento de mascotas
 
 ### Para ONG y Refugios
 - 📊 Dashboard de gestión de mascotas
@@ -68,12 +71,7 @@ Crear una solución tecnológica que:
 - 💰 Gestión de donaciones y campañas
 - 📈 Reportes y estadísticas de adopciones
 - 🔔 Sistema de notificaciones
-
-### Para Donantes
-- 💳 Múltiples métodos de pago seguros
-- 📜 Historial de donaciones
 - 🏆 Sistema de reconocimientos
-- 📧 Recibos y comprobantes automáticos
 
 ---
 
@@ -126,9 +124,9 @@ Crear una solución tecnológica que:
 
 ## 📸 Capturas de Pantalla
 
-### Landing Page (https://hairy-paws-landing-page.onrender.com/)
+### Landing Page
 
-La landing page fue diseñada para presentar la plataforma de manera atractiva, destacando las principales funcionalidades y llamados a la acción.
+La landing page fue diseñada para presentar la plataforma de manera atractiva, destacando las principales funcionalidades y llamados a la acción (https://hairy-paws-landing-page.onrender.com/).
 
 [![image.png](https://i.postimg.cc/c1jSz000/image.png)](https://postimg.cc/14p2nx8j)
 [![image.png](https://i.postimg.cc/4418K12M/image.png)](https://postimg.cc/nMCKgqJY)
