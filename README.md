@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-19-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -39,7 +39,7 @@
 
 **Hairy-Paws** es una plataforma digital diseñada para facilitar el proceso de adopción de mascotas y canalizar donaciones hacia organizaciones no gubernamentales (ONG) dedicadas al bienestar animal. La aplicación conecta a mascotas que necesitan un hogar con familias adoptivas de manera fácil, segura y transparente.
 
-El proyecto fue desarrollado como parte del curso de **Aplicaciones Web** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**, aplicando metodologías ágiles y buenas prácticas de desarrollo de software.
+El proyecto fue desarrollado como parte del curso de **Diseño de Experimentos de Ingeniería de Software** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**, aplicando metodologías ágiles y buenas prácticas de desarrollo de software.
 
 ---
 
